@@ -101,6 +101,28 @@ font-weight: 300;
   padding: 25px;
 }
 
+#medio2{
+  background: url(multimedia/imagenes/laptop-g5c56585f0_1920.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  padding-top: 100px;
+  padding-bottom: 80px;
+  color:#000;
+  text-align: center;
+  font-weight: 300;
+}
+
+#medio2 img{
+  border-radius: 50%;
+  padding-bottom: 20px;
+}
+
+#medio2 h4 {
+  font-size: 100px;
+  padding-bottom: 500px;
+}
+
 #medio {
   background: url('multimedia/imagenes/laptop-g98171e69c_1920.jpg');
   background-repeat: no-repeat;
@@ -293,15 +315,6 @@ input[type="submit"]{
   -webkit-transition: all 0.7s;
   transition: all 0.7s;
 }
-
-.carousel{width:auto;
-  height:  fit-content;
-  display: grid;
-  margin-left: auto;
-  margin-right: auto;
-  -webkit-box-pack: center;
-  -ms-flex-pack: center;
-  justify-content: 1300px;}
 
 /*---------pie de pagina ----------------*/
 
